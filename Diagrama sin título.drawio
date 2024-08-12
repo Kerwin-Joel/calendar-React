@@ -1,0 +1,176 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="Página-1" id="Ktb6PPHtqE-XsO7qxJIM">
+    <mxGraphModel dx="1434" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-1" value="Cambiaran los datos en algun momento?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;fontColor=default;align=center;spacing=9;strokeColor=#000000;fillColor=default;strokeWidth=3;lucidId=y-L2XgPG~pa.;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="435" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-2" value="solo se necesita una variable regular(const nameVariable)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;align=center;spacing=9;strokeColor=default;fillColor=default;strokeWidth=4;lucidId=0-L2NfZNu-TH;" vertex="1" parent="1">
+          <mxGeometry x="810" y="30" width="435" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-3" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.002;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;lucidId=b_L2WuU~-9Xe;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-1" target="c0nX2ZYfSyC4ZNErEEwS-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-4" value="SI" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=NaN;lucidId=E_L2T2ztCqjh;" vertex="1" parent="1">
+          <mxGeometry x="510" y="60" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-5" value="NO" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=NaN;lucidId=6_L2Kp-9clnS;" vertex="1" parent="1">
+          <mxGeometry x="750" y="15" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-6" value="Es posible computar/calcular estos nuevos datos a partir de un dato de estado o prop existente?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;align=center;spacing=9;strokeColor=default;fillColor=default;strokeWidth=3;lucidId=o.L2Uu2e13lz;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="435" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-7" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.025;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;lucidId=y.L2HS76GQda;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-1" target="c0nX2ZYfSyC4ZNErEEwS-6">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-8" value="Entonces se aplica un estado derivado" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;align=center;spacing=9;strokeColor=default;fillColor=default;strokeWidth=4;lucidId=r~L2imKpc-Fs;" vertex="1" parent="1">
+          <mxGeometry x="810" y="105" width="435" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-9" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.002;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;lucidId=x~L2sG259OJJ;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-6" target="c0nX2ZYfSyC4ZNErEEwS-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-10" value="SI" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=NaN;lucidId=z~L2~txjOp.e;" vertex="1" parent="1">
+          <mxGeometry x="750" y="90" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-11" value="El estado debe volver a re-renderizar el componente?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;align=center;spacing=9;strokeColor=default;fillColor=default;strokeWidth=3;lucidId=2bM2VGP70ALo;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="435" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-12" value="NO" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=NaN;lucidId=_bM2fdtlc_xq;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-13" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.013;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;lucidId=rcM2xo-LAMJF;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-6" target="c0nX2ZYfSyC4ZNErEEwS-11">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-14" value="Usar el hook/funcion useRef" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;align=center;spacing=9;strokeColor=default;fillColor=default;strokeWidth=4;lucidId=MdM22zj0AW-9;" vertex="1" parent="1">
+          <mxGeometry x="810" y="195" width="435" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-15" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.002;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;lucidId=SdM2I0AOXt-O;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-11" target="c0nX2ZYfSyC4ZNErEEwS-14">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-16" value="NO" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=NaN;lucidId=6dM2zj_E8gYW;" vertex="1" parent="1">
+          <mxGeometry x="750" y="180" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-17" value="&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;SE USA UN ESTADO LOCAL&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;center&amp;quot;},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;b&amp;quot;,&amp;quot;v&amp;quot;:true,&amp;quot;e&amp;quot;:22},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:22},{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;fsp2&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;ss_presetShapeStyle1_textStyle&amp;quot;,&amp;quot;e&amp;quot;:22}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span style=&quot;color: rgb(216, 102, 19);&quot;&gt;SE USA UN ESTADO LOCAL&lt;/span&gt;&lt;/span&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;shape=cloud;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeColor=default;fillColor=default;strokeWidth=NaN;lucidId=YiM2hAPU1zHG;" vertex="1" parent="1">
+          <mxGeometry x="80" y="157.5" width="180" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-18" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.013;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;lucidId=WjM2.Wx_gS1U;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-11" target="c0nX2ZYfSyC4ZNErEEwS-22">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-19" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.002;exitY=0.5;exitPerimeter=0;entryX=0.601;entryY=1.004;entryPerimeter=0;lucidId=qkM2v6UuVd2a;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-22" target="c0nX2ZYfSyC4ZNErEEwS-17">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-21" value="&lt;font face=&quot;Lucida Console&quot;&gt;DONDE CREAR UN ESTADO&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20.2;fontFamily=Komika Hand;fontColor=#9563ff;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=100;fillColor=#ffffff;strokeWidth=6.8;lucidId=mnM2uLOyjuE2;" vertex="1" parent="1">
+          <mxGeometry x="855" y="360" width="225" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-23" value="&lt;font face=&quot;Lucida Console&quot;&gt;CUANDO CREAR UN ESTADO&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=20.2;fontFamily=Komika Hand;fontColor=#9563ff;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=100;fillColor=#ffffff;strokeWidth=6.8;lucidId=.lM2U8dDN6oP;" vertex="1" parent="1">
+          <mxGeometry x="855" y="240" width="225" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-24" value="Solo es usado en el componente actual?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;align=center;spacing=9;strokeColor=#030303;fillColor=default;strokeWidth=3;lucidId=DrM2gtYjQvpb;" vertex="1" parent="1">
+          <mxGeometry x="300" y="435" width="435" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-25" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.013;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;lucidId=LrM25EdKIldH;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-22" target="c0nX2ZYfSyC4ZNErEEwS-24">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-26" value="Dejarlo en el componente" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;align=center;spacing=9;strokeColor=default;fillColor=default;strokeWidth=4;lucidId=-rM2UDno4_Qa;" vertex="1" parent="1">
+          <mxGeometry x="810" y="450" width="435" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-27" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.002;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;lucidId=jsM2xcRnAdau;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-24" target="c0nX2ZYfSyC4ZNErEEwS-26">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-28" value="Tambien es usado por un componente hijo?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;align=center;spacing=9;strokeColor=#030303;fillColor=default;strokeWidth=3;lucidId=DtM2mQIPchar;" vertex="1" parent="1">
+          <mxGeometry x="300" y="540" width="435" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-29" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.013;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;lucidId=NtM2izFI.Vyj;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-24" target="c0nX2ZYfSyC4ZNErEEwS-28">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-30" value="SI" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=NaN;lucidId=7tM2O_M-BN.u;" vertex="1" parent="1">
+          <mxGeometry x="510" y="248" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-31" value="SI" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=NaN;lucidId=quM2D4lmGbj2;" vertex="1" parent="1">
+          <mxGeometry x="750" y="435" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-32" value="Pasar el estado al componente hijo mediante props" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;align=center;spacing=9;strokeColor=default;fillColor=default;strokeWidth=4;lucidId=dvM24LqrrwdD;" vertex="1" parent="1">
+          <mxGeometry x="810" y="555" width="435" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-33" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.002;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;lucidId=jvM2OjQft-8H;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-28" target="c0nX2ZYfSyC4ZNErEEwS-32">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-34" value="SI" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=NaN;lucidId=nvM2bEyLe_9T;" vertex="1" parent="1">
+          <mxGeometry x="750" y="540" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-35" value="NO" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=NaN;lucidId=uvM2qtTbAHKE;" vertex="1" parent="1">
+          <mxGeometry x="510" y="503" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-36" target="c0nX2ZYfSyC4ZNErEEwS-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-36" value="El estado es usado por uno o pocos componentes hermanos?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;align=center;spacing=9;strokeColor=#030303;fillColor=default;strokeWidth=3;lucidId=UBM2BQuclww1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="645" width="435" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-37" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.013;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;lucidId=vDM2HyM~he2t;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-28" target="c0nX2ZYfSyC4ZNErEEwS-36">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-43" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="333" as="sourcePoint" />
+            <mxPoint x="1280" y="333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-22" value="Colocar una nueva pieza de estado en el componente actual" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;align=center;spacing=9;strokeColor=default;fillColor=default;strokeWidth=3;lucidId=PhM2NbIssY8J;" vertex="1" parent="1">
+          <mxGeometry x="300" y="285" width="435" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-44" target="c0nX2ZYfSyC4ZNErEEwS-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-44" value="NO" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=NaN;lucidId=uvM2qtTbAHKE;" vertex="1" parent="1">
+          <mxGeometry x="510" y="610" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-45" value="Colocar el estado hasta el primer componente padre comùn" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;align=center;spacing=9;strokeColor=default;fillColor=default;strokeWidth=4;lucidId=dvM24LqrrwdD;" vertex="1" parent="1">
+          <mxGeometry x="810" y="645" width="435" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-47" value="SI" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=NaN;lucidId=nvM2bEyLe_9T;" vertex="1" parent="1">
+          <mxGeometry x="750" y="646" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-48" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=1.5;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.5;entryX=0.55;entryY=0.95;entryPerimeter=0;lucidId=qkM2v6UuVd2a;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c0nX2ZYfSyC4ZNErEEwS-36" target="c0nX2ZYfSyC4ZNErEEwS-49">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="300" y="662" as="sourcePoint" />
+            <mxPoint x="189" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-49" value="&lt;font color=&quot;#d86613&quot;&gt;SE USA EN ETADO GLOBAL&lt;/font&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;shape=cloud;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeColor=default;fillColor=default;strokeWidth=NaN;lucidId=YiM2hAPU1zHG;" vertex="1" parent="1">
+          <mxGeometry x="81" y="511" width="180" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="c0nX2ZYfSyC4ZNErEEwS-51" value="NO" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontStyle=1;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=NaN;lucidId=uvM2qtTbAHKE;" vertex="1" parent="1">
+          <mxGeometry x="210" y="646" width="45" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
